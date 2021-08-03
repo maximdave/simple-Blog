@@ -42,7 +42,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/Adedipupo/gratisassement.git
+    $ git clone https://github.com/maximdave/simple-Blog.git
     $ cd gratisassement
     $ yarn
 
@@ -53,7 +53,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Link to the hosted Api
 
-link : https://documenter.getpostman.com/view/15233277/Tzsfnkw3
+link : https://documenter.getpostman.com/view/15233277/sfnkw3
 
 ## Tools 
 $ Node.js

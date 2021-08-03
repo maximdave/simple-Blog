@@ -1,4 +1,4 @@
-# gratisassement
+# A Simple Blog
 
 ## Requirements
 
